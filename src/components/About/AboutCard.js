@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Enthusiasts, I am <span className="purple">Ujjawal Kantt </span>
             from <span className="purple"> Patna, India.</span>
-            <br /> I am a second year student pursuing an Bachelor of Technology (B.Tech)
+            <br /> I am a second year student pursuing a Bachelor of Technology (B.Tech)
             in Computer science and Engineering at SRMIST.
             <br />
             
