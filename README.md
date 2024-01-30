@@ -1,4 +1,4 @@
-bbbbbblbbThis project was built using these technologies.
+bbbbbbbbThis project was built using these technologies.
 
 - React.js
 - Node.js
