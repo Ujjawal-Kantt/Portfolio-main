@@ -1,4 +1,4 @@
-   bn  This project was built using these technologies.
+   n  This project was built using these technologies.
      
 - React.js
 - Node.js
